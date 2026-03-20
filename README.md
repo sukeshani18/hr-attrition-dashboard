@@ -1,5 +1,5 @@
 # HR Attrition Analysis Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 This project analyzes employee attrition using Power BI to identify key trends and insights.
 ## Key Insights
 - Highest attrition observed in R&D department  
