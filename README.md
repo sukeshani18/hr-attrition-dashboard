@@ -1,6 +1,6 @@
 # 📊 HR Attrition Analysis Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png "HR Attrition Dashboard Overview")
 
 ## 📌 Project Overview
 This project presents an interactive **HR Attrition Analysis Dashboard** built using Power BI.
@@ -35,7 +35,8 @@ The objective is to analyze employee attrition patterns and identify key factors
 
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard.png)(Dept-Tooltip.png)
+![Dashboard](Dashboard.png)
+![Dashboard](Dept-Tooltip.png)
 
 
 This dashboard helps organizations:
