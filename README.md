@@ -1,6 +1,6 @@
 # 📊 HR Attrition Analysis Dashboard
 
-![Dashboard](Dashboard.png "HR Attrition Dashboard Overview")
+![Dashboard](Dashboard.png "Power BI dashboard showing employee attrition insights")
 
 ## 📌 Project Overview
 This project presents an interactive **HR Attrition Analysis Dashboard** built using Power BI.
